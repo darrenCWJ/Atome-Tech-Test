@@ -2,7 +2,7 @@
 
 
 
-[def bounds_of_rotations](https://github.com/darrenCWJ/Atome-Tech-Test/blob/main/Problem%202/Weighted_sum_of_list.py#L2) O(n^2) solution solution:
+[def bounds_of_rotations](https://github.com/darrenCWJ/Atome-Tech-Test/blob/main/Problem%202/Weighted_sum_of_list.py#L2) O(n^2) solution:
 
 
 idea: calculate weighted sum of list for each component, rotate and recompute saving it. Then use min and max to find solution
