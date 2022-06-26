@@ -1,3 +1,6 @@
+# Problem 2
+
+
 O(n^2) solution
 
 [def bounds_of_rotations](https://github.com/darrenCWJ/Atome-Tech-Test/blob/main/Problem%202/Weighted_sum_of_list.py#L2) solution:
